@@ -1,1 +1,0 @@
-# PHP-Simple-JSON-API
